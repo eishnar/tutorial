@@ -10,7 +10,6 @@ strawberry
 cucumber
 apple
 damson
-gooseberry
 nectarine
 lime
 passionfruit
